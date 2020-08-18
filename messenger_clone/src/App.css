@@ -1,0 +1,61 @@
+/* .App {
+  text-align: center;
+} */
+
+.App {
+  text-align: center;
+  /* width: 40vw;
+  margin-left: 30vw; */
+}
+
+/* .container {
+  border: 5px solid #3f51b5;
+  text-align: center;
+  width: auto;
+  border-radius: 30px;
+  margin-left: 30vw;
+} */
+
+.h1_messenger {
+  font-size: 60px;
+  font-weight: 800;
+  font-style: italic;
+  margin-top: -20px;
+}
+
+.h4_credits {
+  font-size: 10px;
+  font-weight: 300;
+  font-style: italic;
+  margin-top: -35px;
+}
+
+.welcome_message {
+  font-size: 12px;
+  font-weight: 400;
+  font-style: oblique;
+}
+
+.app__form {
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  background-color: lightgray;
+  width: 95%;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.app__formControl {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.app__iconButton {
+  flex: 0;
+}
+
+.app__input {
+  flex: 1;
+}
