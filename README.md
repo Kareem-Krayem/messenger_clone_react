@@ -14,7 +14,7 @@ with the configurations
 
 you need to run the following commands:
 
-    cd todo_app
+    cd messenger_clone
 
     npm install
 
